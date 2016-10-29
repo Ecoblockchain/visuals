@@ -1,0 +1,42 @@
+<group>
+	<mixer>
+		<f01>0.510721</f01>
+		<f02>0.0408163</f02>
+		<f03>0.94898</f03>
+		<f04>0.260904</f04>
+		<f05>0.806122</f05>
+		<f06>0.158163</f06>
+		<f07>0.5</f07>
+		<f08>0.5</f08>
+		<dSP>1</dSP>
+		<togg1>0</togg1>
+	</mixer>
+<group/>
+<enTORNO>
+		<dSP>1</dSP>
+		<scene1>1</scene1>
+		<scene2>0</scene2>
+		<scene3>1</scene3>
+		<scene4>0</scene4>
+	<scene5>1</scene5>
+	</enTORNO>
+	<sCN__01>
+		<start_01>0.617748</start_01>
+		<duration_01>0.0204082</duration_01>
+		<veloc_01>0.770408</veloc_01>
+		<start_02>0.823352</start_02>
+		<duration_02>0.0153061</duration_02>
+		<veloc_02>0.484694</veloc_02>
+	</sCN__01>
+<sCN__02>
+		<radiusJUMP>4.9949</radiusJUMP>
+		<phaseDIFF>58.5995</phaseDIFF>
+	</sCN__02>
+	<sCN__03>
+		<exTRUde>30</exTRUde>
+	</sCN__03>
+<sCN__05>
+		<particlesVEL>179.485</particlesVEL>
+		<particlesFREC>100.571</particlesFREC>
+	</sCN__05>
+</group>
