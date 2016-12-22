@@ -1,4 +1,0 @@
-ofxGui
-ofxMaxim
-ofxOsc
-ofxXmlSettings
